@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
 }
-
 @font-face {
   font-family: 'MalayalamSangamMNRegular';
   src: url('malayalam_sangam_mn-webfont.eot');
@@ -12,18 +11,6 @@
   url('malayalam_sangam_mn-webfont.svg#MalayalamSangamMNRegular') format('svg');
   font-weight: normal;
   font-style: normal;
-}
-
-@font-face {
-  font-family: 'AmericanTypewriterStdMedRg';
-  src: url("/fonts/americanTypewriter/americantypewriterstd-med-webfont.eot");
-  src: url("/fonts/americanTypewriter/americantypewriterstd-med-webfont.eot?#iefix") format("embedded-opentype"), url("/fonts/americanTypewriter/americantypewriterstd-med-webfont.woff") format("woff"), url("/fonts/americanTypewriter/americantypewriterstd-med-webfont.ttf") format("truetype"), url("/fonts/americanTypewriter/americantypewriterstd-med-webfont.svg#AmericanTypewriterStdMedRg") format("svg");
-  font-weight: normal;
-  font-style: normal;
-}
-
-h1 {
-  font-family: 'MalayalamSangamMNRegular';
 }
 
 #siteContainer {
