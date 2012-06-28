@@ -4,14 +4,14 @@
 
 /*
 @font-face {
-  font-family: 'MalayalamSangamMNRegular';
-  src: url('malayalam_sangam_mn-webfont.eot');
-  src: url('malayalam_sangam_mn-webfont.eot?#iefix') format('embedded-opentype'),
-  url('malayalam_sangam_mn-webfont.woff') format('woff'),
-  url('malayalam_sangam_mn-webfont.ttf') format('truetype'),
-  url('malayalam_sangam_mn-webfont.svg#MalayalamSangamMNRegular') format('svg');
-  font-weight: normal;
-  font-style: normal;
+font-family: 'MalayalamSangamMNRegular';
+src: url('malayalam_sangam_mn-webfont.eot');
+src: url('malayalam_sangam_mn-webfont.eot?#iefix') format('embedded-opentype'),
+url('malayalam_sangam_mn-webfont.woff') format('woff'),
+url('malayalam_sangam_mn-webfont.ttf') format('truetype'),
+url('malayalam_sangam_mn-webfont.svg#MalayalamSangamMNRegular') format('svg');
+font-weight: normal;
+font-style: normal;
 }  */
 #siteContainer {
   width: 100%;
